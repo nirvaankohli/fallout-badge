@@ -1,0 +1,11 @@
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-F_Cu.gbr'.
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-B_Cu.gbr'.
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-F_Paste.gbr'.
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-B_Paste.gbr'.
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-F_Silkscreen.gbr'.
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-B_Silkscreen.gbr'.
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-F_Mask.gbr'.
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-B_Mask.gbr'.
+Plotted to '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/nirvaank/Code/Hardware/fallout/event/badge/fallout-badge/fallout-badge/fallout-badge-job.gbrjob'.
+Info: Done.
